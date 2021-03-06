@@ -1,0 +1,10 @@
+name: prison
+main: NamelessLeaf\prison\Main
+author: NamelessLeaf
+version: "1.0"
+description: "A Plugin For NamelessNetwork"
+api: 3.17.2
+commands:
+ playmurder:
+  description: "Open Prison UI"
+  permission: use.prison
