@@ -58,7 +58,7 @@ class Main extends PluginBase implements Listener {
     
       }
     });
-    $form->setTitle("§e>>§4§lMurder Mystery§r§e<<");
+    $form->setTitle("§e>>§6§lPrison§r§e<<");
     $form->setContent("Click CONFIRM To Play Prison!");
     $form->addButton("§l§aCONFIRM");
     $form->addButton("§l§cExit");
